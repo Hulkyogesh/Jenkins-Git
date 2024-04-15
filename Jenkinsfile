@@ -8,4 +8,11 @@ pipeline {
             }
         }
     }
+    post
+    {
+        always
+        {
+            emailext body: 'Build started on echo $date', subject: 'Build started on echo $date', to: 'yogeshbarshi0@gmail.com'
+        }
+    }
 }
