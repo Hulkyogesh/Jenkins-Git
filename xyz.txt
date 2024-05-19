@@ -11,3 +11,4 @@ adding line to check poll SCM trigger will happen after doing chnages in file or
 added new line to check is bulid will get trigger after pr will get mergerd or not
 added line
 adding line to check pr status
+adding line after enabling smtp server
