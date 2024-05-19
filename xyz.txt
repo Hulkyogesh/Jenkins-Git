@@ -12,3 +12,4 @@ added new line to check is bulid will get trigger after pr will get mergerd or n
 added line
 adding line to check pr status
 adding line after enabling smtp server
+adding line after enabling smtp server
