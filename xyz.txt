@@ -13,3 +13,4 @@ added line
 adding line to check pr status
 adding line after enabling smtp server
 adding line after enabling smtp server
+adding another line after completing all config of smtp
