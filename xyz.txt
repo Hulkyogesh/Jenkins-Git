@@ -8,3 +8,4 @@ adding new file line after adding mailid on jenkins server
 adding line to test how poll SCM works
 added corn trigger on poll scm but job is not triggering every 2 min, need to check is job will trigger if there is any chnage in file or if no chnages then it wont trigger job
 adding line to check poll SCM trigger will happen after doing chnages in file or not 
+added new line to check is bulid will get trigger after pr will get mergerd or not
