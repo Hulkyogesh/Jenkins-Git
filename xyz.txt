@@ -25,3 +25,4 @@ adding line
 
 adding line after configration of git with jenkins using ssh private key
 adding line to check how shell script runs and what will be the output
+adding new file to check maven project
