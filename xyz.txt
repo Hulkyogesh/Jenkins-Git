@@ -28,3 +28,4 @@ adding line to check how shell script runs and what will be the output
 adding new file to check maven project
 adding another line
 adding line after changing config details
+adding another line to check how compile works 
