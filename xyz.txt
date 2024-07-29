@@ -33,3 +33,4 @@ adding new line
 added another line 
 adding another line
 adding new file
+removing github hook option to not to trigger build 
